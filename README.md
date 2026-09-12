@@ -1,6 +1,6 @@
 # Society Management App (Android)
 
-A native Android application built for the Horizon Broadband technical assignment. It helps residents and admins of a residential society communicate, raise and track issues, and stay connected — built with a strong focus on clean architecture, state management, and code quality over feature count.
+A native Android application designed to simplify residential society management. The application provides a centralized platform for residents and administrators to manage society announcements, raise and track complaints, and access member information. It focuses on providing a simple, organized, and user-friendly experience for common society activities.
 
 ## Project Overview
 
