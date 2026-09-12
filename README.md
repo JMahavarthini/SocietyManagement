@@ -93,10 +93,4 @@ No backend, API keys, or Firebase setup is required — the app runs fully offli
 - Add push notifications for new announcements and complaint status changes.
 - Add search and filtering to the Member Directory and Complaints list.
 
-## Screenshots
 
-*(Add screenshots here after running the app — Login, Home Dashboard, Notice Board, Complaints, Member Directory)*
-
----
-
-Built for the Horizon Broadband Android technical assignment.
