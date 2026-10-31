@@ -4,7 +4,7 @@ A native Android application designed to simplify residential society management
 
 ## Project Overview
 
-Rather than implementing every feature listed in the assignment, this project deliberately focuses on **four features, implemented completely and correctly**, following the assignment's own guidance that "a smaller number of well-designed and properly implemented features will be valued more than a large number of incomplete features."
+The Society Management App is designed to simplify common activities in residential communities.  It provides a centralized platform where residents can view announcements, raise and track complaints, and access member information.  Administrator can manage announcements and update complaint statuses.  The application focuses on providing a simple and organized experience for both residents and administrators.
 
 ## Features Implemented
 
